@@ -1,0 +1,9 @@
+Which language is used for web development?,Python,HTML,C++,Java,2
+What is 5 + 3?,5,8,9,10,2
+Which planet is known as the Red Planet?,Earth,Mars,Venus,Jupiter,2
+Who wrote Hamlet?,Charles Dickens,William Shakespeare,J.K. Rowling,Mark Twain,2
+What is the boiling point of water in Celsius?,50,100,150,200,2
+Which animal is called the King of the Jungle?,Elephant,Lion,Tiger,Cheetah,2
+Which programming language is known as mother of all languages?,C,Python,Java,Ruby,1
+What is the square root of 64?,6,7,8,9,3
+Which gas do humans need to breathe?,Carbon dioxide,Oxygen,Nitrogen,Helium,2
